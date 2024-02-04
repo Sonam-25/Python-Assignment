@@ -1,5 +1,3 @@
-from ast import List
-
 class Solution:
     #dfs traversval for each X element 
     def dfs(self,board, row, col):
